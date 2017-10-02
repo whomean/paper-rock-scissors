@@ -1,0 +1,21 @@
+.choosensymbol {
+  height: 200px; }
+  .choosensymbol i {
+    font-size: 130px; }
+
+.winner i {
+  color: green; }
+
+.loser {
+  color: red; }
+
+.score {
+  font-size: 20px; }
+
+.endgame {
+  /*position: absolute;*/
+  height: 200px;
+  width: 500px;
+  margin: auto; }
+
+/*# sourceMappingURL=style.css.map */
